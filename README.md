@@ -11,8 +11,11 @@ Parametric modeling techniques find the parameters for a mathematical model desc
 
 Functions:
 aryule  Estimate autoregressive (AR) all-pole model using Yule-Walker method
+
 arburg(TODO)  Autoregressive (AR) all-pole model parameters estimated using Burg method
+
 arcov(TODO) Estimate AR model parameters using covariance method
+
 armcov(TODO)  Estimate AR model parameters using modified covariance method
 
 
